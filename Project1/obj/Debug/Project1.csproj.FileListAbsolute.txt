@@ -1,0 +1,7 @@
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\bin\Debug\Project1.exe.config
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\bin\Debug\Project1.exe
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\bin\Debug\Project1.pdb
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\obj\Debug\Project1.exe
+D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Project1\obj\Debug\Project1.pdb
