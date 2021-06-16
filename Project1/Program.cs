@@ -22,7 +22,7 @@ namespace Project1
         public string teacher_Section;
 
         //The path of the file 
-        public string filePath = @"D:\msi msi 2\Desktop\College of Computer Science and Information Technology\4- Third Year\Summer course\Practical (Co-op) Training CS 444\Course\Step 1\Project #1\Project1Solution\Records.txt";
+        public string filePath = @"C:\User\Desktop\Project1Solution\Records.txt";
         List<string> lines;     //Declare an object (lines) for the file
         public Teacher()    //Constructor for the Teacher class
         {
